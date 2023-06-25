@@ -10,7 +10,7 @@
 # Hello GitHub Actions
 
 _Create a GitHub Action and use it in a workflow._
-
+emoji1 emoji2 emoji3
 </header>
 
 <!--
